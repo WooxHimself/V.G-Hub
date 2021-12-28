@@ -480,7 +480,7 @@ game:GetService("RunService").Stepped:connect(
 )
 end)
 
-getgenv().Message = "V.G Hub Winning"
+getgenv().Message = "Yall cant stop me <3 Woox is GOD!"
 local Toggle1 = Section1:CreateToggle("Spam Chat", nil, function(State)
 chat = State
 game:GetService("RunService").RenderStepped:Connect(
